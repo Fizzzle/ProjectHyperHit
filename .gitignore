@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# new 
+HyperHit/Library/
+HyperHit/[Tt]emp/
+HyperHit/[Oo]bj/
+HyperHit/[Bb]uild/
+HyperHit/[Ll]ogs/
+HyperHit/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
